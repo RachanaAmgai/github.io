@@ -3,7 +3,7 @@
 - Pronouns me 😄 Raa cha na 
 
 ### About me
-I am a Data Science student and love to learner. My academic journey has equipped me with solid foundations in statistical analysis, machine learning, data visualization, and programming languages such as Python and SQL.  I have a few years of practical experience as a Junior Data analyst, where I applied analytical techniques to real-world business challenges.Currently i am looking for data science job.
+I am a Data Science student and love to learner. My academic journey has equipped me with solid foundations in statistical analysis, machine learning, data visualization, and programming languages such as Python and SQL. 
 
 ### Upcoming project
 - Churn Prediction in Telcom using Machine Learning Classification
